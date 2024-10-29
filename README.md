@@ -7,3 +7,5 @@ Link do Instagram: https://www.instagram.com/ifesporteemacao/profilecard/?igsh=M
 https://mail.google.com/mail/u/0?ui=2&ik=be499c3208&attid=0.1&permmsgid=msg-f:1814269217777599435&th=192d943dbc8f43cb&view=att&disp=safe&realattid=192d943553a5dcd93a01
 ### protótipo do site:
 link:https://www.canva.com/design/DAGUU2G9KMc/8qXZ7I3zbsWYuIVOfTeisQ/edit
+### equpe:
+Isabele da Silva, Isabele S.J.B, Ana Clara, Hilary, Giovana Queji
